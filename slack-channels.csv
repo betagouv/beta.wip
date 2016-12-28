@@ -1,68 +1,68 @@
 Nom,Archivé,Topic,Membres
-administration,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Administration",22
+meta-admin,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Administration",22
+startup-api_gouv,false,"https://api.gouv.fr",23
+api-entreprise,false,"",8
 api-medicaments,true,"",0
-api_gouv,false,"api.gouv.fr",23
-apientreprise,false,"",8
-apipart-internal,false,"",0
-apiparticulier,false,"",11
-au-bistro,false,"",18
+api-particulier-team,false,"",0
+api-particulier,false,"",11
 babies,true,"",0
-beta_gouv,false,"beta.gouv.fr",22
+meta-bistro,false,"",18
+startup-beta_gouv,false,"beta.gouv.fr",22
 bof-octo,true,"",0
-bourse,false,"",4
-boussole,false,"https://beta.gouv.fr/startup/boussole",13
+startup-bourse,false,"",4
+startup-boussole,false,"https://beta.gouv.fr/startup/boussole",13
 bureaux-mirabeau,false,"39 quai André Citroën, 75015, Salle XXX, XXX , Horaires de sieste/méditation: 13h - 14h",22
 bureaux-mutinerie,false,"porte d'entrée : XXX wifi : XXX -&gt; XXX",16
 bureaux-sully,false,"86 allée de Bercy, 75012 Paris. Salle XXX. WiFi : XXX",15
-cellulepsychologique,false,"",5
-chez-wam,false,"https://github.com/krichtof/chez-wam/wiki",11
+random-rachat,false,"",5
+startup-chez_wam,false,"https://github.com/krichtof/chez-wam/wiki",11
 choix-domaine,true,"",0
 choix-nom-de-domain,true,"",0
-commies,false,"Sans MS",9
+random-commies,false,"Sans MS",9
 data,true,"La donnée en général",0
-design-de-service,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
-ee-internal,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
-embauche,false,"https://embauche.beta.gouv.fr",9
-etudiant-entrepreneur,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
-events,false,"",14
-fil-rouge,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
-general,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
-geoapi,false,"Travaux autour de la GéoAPI et de feu API Carto",13
-infra,false,"https://docs.google.com/spreadsheets/XXX",21
-inspire,false,":pineapple:",7
-intrapreneur-en-start,false,"",9
-ludwig,false,"",3
+experts-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
+startup-etu_ent-team,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
+startup-embauche,false,"https://embauche.beta.gouv.fr",9
+startup-etu_ent,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
+meta-evenements_live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
+meta-strategie,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
+**meta-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
+api-geo,false,"Travaux autour de la GéoAPI et de feu API Carto",13
+meta-infra,false,"https://docs.google.com/spreadsheets/XXX",21
+startup-inspire,false,":pineapple:",7
+experts-intrapreneurs,false,"",9
+startup-ludwig,false,"",3
 marketplace,true,"",0
-mdph,false,"https://mdph.beta.gouv.fr",6
-mes-aides,false,"https://mes-aides.gouv.fr",11
-mes-aides-internals,false,"",4
-mpal,false,"",9
+startup-mdph,false,"https://mdph.beta.gouv.fr",6
+startup-mes_aides,false,"https://mes-aides.gouv.fr",11
+startup-mes_aid-team,false,"",4
+startup-mpal,false,"",9
 mutinerie,true,"",0
-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
-openacademie,false,"",7
-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
+meta-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
+startup-openacademie,false,"",7
+experts-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
 openfisca,false,"",3
-pix,false,"",12
-pix-ci,false,"",3
-pix-internals,false,"",4
-plante-et-moi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
-pole-emploi,false,"",10
-politique,false,"",5
+startup-pix,false,"",12
+startup-pix-ci,false,"",3
+startup-pix-team,false,"",4
+startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
+groupe-pole_emploi,false,"",10
+random-politique,false,"",5
 random,false,"",57
-recrutement,false,"Qui pourrait nous rejoindre ?",18
-repas-de-noel-2016,false,"",7
-reseaux-sociaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
-retraites,false,"",5
-security,false,"",8
-service-public-donnee,false,"",12
+meta-recrutement,false,"Qui pourrait nous rejoindre ?",18
+repas-de-noel-2016,true,"",7
+meta-reseaux_sociaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
+startup-retraites,false,"",5
+experts-security,false,"",8
+service-public-donnee,true,"",12
 taxi-internal,true,"",0
-taxis,false,"https://le.taxi",11
-taxis-internal,false,"",2
-tech,false,"",30
+startup-taxis,false,"https://le.taxi",11
+startup-taxis-team,false,"",2
+experts-dev,false,"",30
 tes,false,"",14
-tps,false,"",32
+startup-tps,false,"",32
 true-pix,true,"",0
 urbaclic,false,"",11
-ux,false,"",1
-vacances,false,"On avait un peu bu au pot de Thibaut et on s'est dit que ça serait fun, ok @maukoquiroga ??",29
-verif-site,false,"Channel pour discuter du produit https://verif.site",9
+ux,true,"",1
+random-vacances,false,"On avait un peu bu au pot de Thibaut et on s'est dit que ça serait fun, ok @maukoquiroga ??",29
+startup-verif_site,false,"Channel pour discuter du produit https://verif.site",9
