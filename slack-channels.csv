@@ -20,7 +20,7 @@ choix-domaine,true,"",0
 choix-nom-de-domain,true,"",0
 random-commies,false,"Sans MS",9
 data,true,"La donnée en général",0
-experts-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
+guilde-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
 startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
 startup-embauche,false,"https://embauche.beta.gouv.fr",9
 startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
@@ -30,7 +30,7 @@ meta-strategie,false,"Stratégie, vision partagée, futur de l’incubateur, am�
 api-geo,false,"Travaux autour de la GéoAPI et de feu API Carto",13
 meta-infra,false,"https://docs.google.com/spreadsheets/XXX",21
 startup-inspire,false,":pineapple:",7
-experts-intrapreneurs,false,"",9
+guilde-intrapreneurs,false,"",9
 startup-ludwig,false,"",3
 marketplace,true,"",0
 startup-mdph,false,"https://mdph.beta.gouv.fr",6
@@ -40,25 +40,25 @@ startup-mpal,false,"",9
 mutinerie,true,"",0
 meta-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
 startup-openacademie,false,"",7
-experts-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
+guilde-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
 openfisca,false,"",3
 startup-pix-info,false,"",12
 startup-pix-ci,false,"",3
 startup-pix,false,"",4
 startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
-groupe-pole_emploi,false,"",10
+tribu-pole_emploi,false,"",10
 random-politique,false,"",5
 random,false,"",57
 meta-recrutement,false,"Qui pourrait nous rejoindre ?",18
 repas-de-noel-2016,true,"",7
 meta-reseaux_sociaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
 startup-retraites,false,"",5
-experts-security,false,"",8
+guilde-security,false,"",8
 service-public-donnee,true,"",12
 taxi-internal,true,"",0
 startup-taxis-info,false,"https://le.taxi",11
 startup-taxis,false,"",2
-experts-dev,false,"",30
+guilde-dev,false,"",30
 tes,false,"",14
 startup-tps,false,"",32
 true-pix,true,"",0
