@@ -3,8 +3,8 @@ meta-admin,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Administration",22
 startup-api_gouv,false,"https://api.gouv.fr",23
 api-entreprise,false,"",8
 api-medicaments,true,"",0
-api-particulier-team,false,"",0
-api-particulier,false,"",11
+api-particulier,false,"",0
+api-particulier-info,false,"",11
 babies,true,"",0
 meta-bistro,false,"",18
 startup-beta_gouv,false,"beta.gouv.fr",22
@@ -21,9 +21,9 @@ choix-nom-de-domain,true,"",0
 random-commies,false,"Sans MS",9
 data,true,"La donnée en général",0
 experts-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
-startup-etu_ent-team,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
+startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
 startup-embauche,false,"https://embauche.beta.gouv.fr",9
-startup-etu_ent,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
+startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
 meta-evenements_live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
 meta-strategie,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
 **meta-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
@@ -34,17 +34,17 @@ experts-intrapreneurs,false,"",9
 startup-ludwig,false,"",3
 marketplace,true,"",0
 startup-mdph,false,"https://mdph.beta.gouv.fr",6
-startup-mes_aides,false,"https://mes-aides.gouv.fr",11
-startup-mes_aid-team,false,"",4
+startup-mes_aid-info,false,"https://mes-aides.gouv.fr",11
+startup-mes_aid,false,"",4
 startup-mpal,false,"",9
 mutinerie,true,"",0
 meta-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
 startup-openacademie,false,"",7
 experts-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
 openfisca,false,"",3
-startup-pix,false,"",12
+startup-pix-info,false,"",12
 startup-pix-ci,false,"",3
-startup-pix-team,false,"",4
+startup-pix,false,"",4
 startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
 groupe-pole_emploi,false,"",10
 random-politique,false,"",5
@@ -56,8 +56,8 @@ startup-retraites,false,"",5
 experts-security,false,"",8
 service-public-donnee,true,"",12
 taxi-internal,true,"",0
-startup-taxis,false,"https://le.taxi",11
-startup-taxis-team,false,"",2
+startup-taxis-info,false,"https://le.taxi",11
+startup-taxis,false,"",2
 experts-dev,false,"",30
 tes,false,"",14
 startup-tps,false,"",32
