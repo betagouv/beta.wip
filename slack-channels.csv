@@ -60,7 +60,7 @@ taxi-internal,true,"",0
 startup-taxis-info,false,"https://le.taxi",11
 startup-taxis,false,"",2
 domaine-dev,false,"",30
-tes,false,"",14
+tes,true,"",14
 startup-tps,false,"",32
 true-pix,true,"",0
 startup-urbaclic,false,"",11
