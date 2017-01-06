@@ -46,7 +46,7 @@ startup-pix-info,false,"",12
 startup-pix-ci,false,"",3
 startup-pix,false,"",4
 startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
-tribu-pole_emploi,false,"",10
+pole_emploi,true,"",10
 bruit-politique,false,"",5
 random,false,"",57
 meta-recrutement,false,"Qui pourrait nous rejoindre ?",18
