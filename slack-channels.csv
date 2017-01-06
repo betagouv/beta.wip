@@ -20,7 +20,7 @@ choix-domaine,true,"",0
 choix-nom-de-domain,true,"",0
 bruit-commies,false,"Sans MS",9
 data,true,"La donnée en général",0
-guilde-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
+domaine-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
 startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
 startup-embauche,false,"https://embauche.beta.gouv.fr",9
 startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
@@ -30,7 +30,7 @@ incubateur-strategie,false,"Stratégie, vision partagée, futur de l’incubateu
 api-geo,false,"Travaux autour de la GéoAPI et de feu API Carto",13
 incubateur-infra,false,"https://docs.google.com/spreadsheets/XXX",21
 startup-inspire,false,":pineapple:",7
-guilde-intrapreneurs,false,"",9
+domaine-intrapreneur,false,"",9
 startup-ludwig,false,"",3
 marketplace,true,"",0
 startup-mdph,false,"https://mdph.beta.gouv.fr",6
@@ -40,7 +40,7 @@ startup-mpal,false,"",9
 mutinerie,true,"",0
 incubateur-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
 startup-openacademie,false,"",7
-guilde-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
+domaine-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
 openfisca,false,"",3
 startup-pix-info,false,"",12
 startup-pix-ci,false,"",3
@@ -53,12 +53,12 @@ incubateur-recrutemt,false,"Qui pourrait nous rejoindre ?",18
 repas-de-noel-2016,true,"",7
 incubateur-reseaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
 startup-retraites,false,"",5
-guilde-security,false,"",8
+domaine-secu,false,"",8
 service-public-donnee,true,"",12
 taxi-internal,true,"",0
 startup-taxis-info,false,"https://le.taxi",11
 startup-taxis,false,"",2
-guilde-dev,false,"",30
+domaine-dev,false,"",30
 tes,false,"",14
 startup-tps,false,"",32
 true-pix,true,"",0
