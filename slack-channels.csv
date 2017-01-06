@@ -27,7 +27,7 @@ startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incu
 incubateur-live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
 **incubateur-strategie**,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
 **incubateur-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
-**general**,false,"Tu n'as trouvé aucun endroit où poster ? Allez, mets-le ici. On te redigera au besoin ;)",59
+**general**,false,"Tu n'as trouvé aucun endroit où poster ? Allez, mets-le ici. On te redirigera au besoin ;)",59
 api-geo,false,"Travaux autour de la GéoAPI et de feu API Carto",13
 incubateur-infra,false,"https://docs.google.com/spreadsheets/XXX",21
 startup-inspire,false,":pineapple:",7
