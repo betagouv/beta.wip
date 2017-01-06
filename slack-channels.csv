@@ -1,12 +1,12 @@
 Nom,Archivé,Topic,Membres
-meta-admin,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Administration",22
+incubateur-admin,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Administration",22
 startup-api_gouv,false,"https://api.gouv.fr",23
 api-entreprise,false,"",8
 api-medicaments,true,"",0
 apiparticulier,true,"",0
 api-particulier,false,"",11
 babies,true,"",0
-meta-bistro,false,"",18
+incubateur-bistro,false,"",18
 startup-beta_gouv,false,"beta.gouv.fr",22
 bof-octo,true,"",0
 startup-bourse,false,"",4
@@ -24,11 +24,11 @@ guilde-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean star
 startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
 startup-embauche,false,"https://embauche.beta.gouv.fr",9
 startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
-meta-evenements_live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
-meta-strategie,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
-**meta-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
+incubateur-live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
+incubateur-strategie,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
+**incubateur-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
 api-geo,false,"Travaux autour de la GéoAPI et de feu API Carto",13
-meta-infra,false,"https://docs.google.com/spreadsheets/XXX",21
+incubateur-infra,false,"https://docs.google.com/spreadsheets/XXX",21
 startup-inspire,false,":pineapple:",7
 guilde-intrapreneurs,false,"",9
 startup-ludwig,false,"",3
@@ -38,7 +38,7 @@ startup-mes_aid-info,false,"https://mes-aides.gouv.fr",11
 startup-mes_aid,false,"",4
 startup-mpal,false,"",9
 mutinerie,true,"",0
-meta-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
+incubateur-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
 startup-openacademie,false,"",7
 guilde-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
 openfisca,false,"",3
@@ -49,9 +49,9 @@ startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-e
 pole_emploi,true,"",10
 bruit-politique,false,"",5
 random,false,"",57
-meta-recrutement,false,"Qui pourrait nous rejoindre ?",18
+incubateur-recrutemt,false,"Qui pourrait nous rejoindre ?",18
 repas-de-noel-2016,true,"",7
-meta-reseaux_sociaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
+incubateur-reseaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
 startup-retraites,false,"",5
 guilde-security,false,"",8
 service-public-donnee,true,"",12
