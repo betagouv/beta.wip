@@ -14,11 +14,11 @@ startup-boussole,false,"https://beta.gouv.fr/startup/boussole",13
 bureaux-mirabeau,false,"39 quai André Citroën, 75015, Salle XXX, XXX , Horaires de sieste/méditation: 13h - 14h",22
 bureaux-mutinerie,false,"porte d'entrée : XXX wifi : XXX -&gt; XXX",16
 bureaux-sully,false,"86 allée de Bercy, 75012 Paris. Salle XXX. WiFi : XXX",15
-random-rachat,false,"",5
+bruit-rachat,false,"",5
 startup-chez_wam,false,"https://github.com/krichtof/chez-wam/wiki",11
 choix-domaine,true,"",0
 choix-nom-de-domain,true,"",0
-random-commies,false,"Sans MS",9
+bruit-commies,false,"Sans MS",9
 data,true,"La donnée en général",0
 guilde-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
 startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
@@ -47,7 +47,7 @@ startup-pix-ci,false,"",3
 startup-pix,false,"",4
 startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
 tribu-pole_emploi,false,"",10
-random-politique,false,"",5
+bruit-politique,false,"",5
 random,false,"",57
 meta-recrutement,false,"Qui pourrait nous rejoindre ?",18
 repas-de-noel-2016,true,"",7
@@ -64,5 +64,5 @@ startup-tps,false,"",32
 true-pix,true,"",0
 startup-urbaclic,false,"",11
 ux,true,"",1
-random-vacances,false,"On avait un peu bu au pot de Thibaut et on s'est dit que ça serait fun, ok @maukoquiroga ??",29
+bruit-vacances,false,"On avait un peu bu au pot de Thibaut et on s'est dit que ça serait fun, ok @maukoquiroga ??",29
 startup-verif_site,false,"Channel pour discuter du produit https://verif.site",9
