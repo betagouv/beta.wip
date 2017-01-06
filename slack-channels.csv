@@ -6,7 +6,7 @@ api-medicaments,true,"",0
 apiparticulier,true,"",0
 api-particulier,false,"",11
 babies,true,"",0
-incubateur-bistro,false,"",18
+**incubateur-sorties**,false,"",18
 startup-beta_gouv,false,"beta.gouv.fr",22
 bof-octo,true,"",0
 startup-bourse,false,"",4
@@ -25,9 +25,9 @@ startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur
 startup-embauche,false,"https://embauche.beta.gouv.fr",9
 startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
 incubateur-live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
-incubateur-strategie,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
+**incubateur-strategie**,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
 **incubateur-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
-general,false,"Tu n'as trouvé aucun endroit où poster ? Allez, mets-le ici. On te redigera au besoin ;)",59
+**general**,false,"Tu n'as trouvé aucun endroit où poster ? Allez, mets-le ici. On te redigera au besoin ;)",59
 api-geo,false,"Travaux autour de la GéoAPI et de feu API Carto",13
 incubateur-infra,false,"https://docs.google.com/spreadsheets/XXX",21
 startup-inspire,false,":pineapple:",7
@@ -39,7 +39,7 @@ startup-mes_aid-info,false,"https://mes-aides.gouv.fr",11
 startup-mes_aid,false,"",4
 startup-mpal,false,"",9
 mutinerie,true,"",0
-incubateur-nouveaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
+**incubateur-nouveaux**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Bienvenue",33
 startup-openacademie,false,"",7
 domaine-opendata,false,"Actualités et discussions en rapport avec l’ouverture des données. L’équipe #datagouv est sur chat.code.gouv2.fr.",14
 openfisca,false,"",3
@@ -49,7 +49,7 @@ startup-pix,false,"",4
 startup-plante_etmoi,false,"Tâches en cours : https://github.com/sgmap/plante-et-moi/projects/1",7
 pole_emploi,true,"",10
 bruit-politique,false,"",5
-random,false,"",57
+**random**,false,"",57
 incubateur-recrutemt,false,"Qui pourrait nous rejoindre ?",18
 repas-de-noel-2016,true,"",7
 incubateur-reseaux,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Réseaux-sociaux",15
@@ -67,4 +67,4 @@ startup-urbaclic,false,"",11
 ux,true,"",1
 bruit-vacances,false,"On avait un peu bu au pot de Thibaut et on s'est dit que ça serait fun, ok @maukoquiroga ??",29
 startup-verif_site,false,"Channel pour discuter du produit https://verif.site",9
-incubateur-veille,true,"Revue de presse",_
+**incubateur-veille**,true,"Revue de presse",_
