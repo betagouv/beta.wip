@@ -3,8 +3,8 @@ meta-admin,false,"https://github.com/sgmap/beta.gouv.fr/wiki/Administration",22
 startup-api_gouv,false,"https://api.gouv.fr",23
 api-entreprise,false,"",8
 api-medicaments,true,"",0
-api-particulier,false,"",0
-api-particulier-info,false,"",11
+apiparticulier,true,"",0
+api-particulier,false,"",11
 babies,true,"",0
 meta-bistro,false,"",18
 startup-beta_gouv,false,"beta.gouv.fr",22
