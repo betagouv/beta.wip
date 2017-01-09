@@ -21,9 +21,9 @@ choix-nom-de-domain,true,"",0
 bruit-commies,false,"Sans MS",9
 data,true,"La donnée en général",0
 domaine-ux,false,"Aime le problème, pas la solution ! UX, UI, custdev, lean startup, jobs-to-be-done, service design, ethno, etc.",34
-startup-etu_ent,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
+startup-EE,false,"Discussion internes de la start-up étudiant entrepreneur (tout ce qui n’intéresse que nous et pas l’incubateur) XXX",3
 startup-embauche,false,"https://embauche.beta.gouv.fr",9
-startup-etu_ent-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
+startup-EE-info,false,"Discussions pouvant intéresser le reste de l’incubateur, meilleur endroit pour porter un sujet à l’attention de l’équipe.\r\nhttps://github.com/sgmap/etudiant-entrepreneur\r\n",6
 incubateur-live,false,"Livestreaming / blogging / tweeting d'événements (hackathons, séminaires…).",14
 **incubateur-strategie**,false,"Stratégie, vision partagée, futur de l’incubateur, amélioration continue, idées, bonheurs et douleurs, émanées aux rétrospectives et séminaires =&gt;  LIVE XXX",32
 **incubateur-annonces**,false,"https://github.com/sgmap/beta.gouv.fr/wiki/",59
