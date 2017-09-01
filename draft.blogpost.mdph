@@ -1,0 +1,33 @@
+Objet de l'article ce que nous avons appris sur MDPH en ligne 
+
+1. A quoi sert de le produit : 
+Permet à toutes personnes en situation de handicap ou ceux qui les aident de déposer une demande de compensation en ligne, simplement. 
+Refonte de la demande de compensation. Centrée autour du projet de vie. Réforme de 2005 et son impact sur l'organisation des MDPH et l'augmentation des délais de traitement des dossiers. Délai légal de 4 mois très régulièrement dépassé, notamment pour les première demande. 
+Ce qui génère en plus du travail dans les MDPH pour doivent gérer des contentieux fréquents. 
+
+En facilitant l'envoi des pièces justificatives obligatoires, le service améliore la complétion des dossiers à l'entrée et permet donc de réduire les aller/retours à l'envoi du dossier et donc les délai de traitement. 
+=> lien avec la GED 
+=> Piste ouvrir une API
+
+2. Accessibilité
+Approche pragmatique de l'accessibilité.
+Test utilisateur.
+Un retour partique et une prise en compte itérative des améliorations à apporter plutôt qu'une homologation exhaustive soumise à la validation du RGAA.
+
+3. Tunel de conversion (activation)
+/stats
+Activation du compte nécessaire
+Plusieurs problème à l'activation (retour de mail)
+Taux de conversion
+Les modification apportées
+Et si vous avez des idées - ou déjà rencontrez ce problème n'hésitez pas à contribuer ;) => dépot github !
+
+4. Traction (likes)
+Faire de nos utilisateurs nos ambassadeurs et faire de nos potentiels client, nos commerciaux ;)
+cf. le Nord
++ img du CTA et du graphe de like
+
+5. Logiciel libre et ouvert
+Le code a été publié dès le premier jour. Ce qui nous a permis d'embarquer rapidement les dèv de la CNSA qui ont rejoins l'équipe (système de review).
+Cet actif constitue également un ensemble de spec actionnable pour l'ensemble des éditeurs logiciels qui outillent les MDPH et les départements en application de gestion. 
+Le service se veut une base minimum de feature, sur laquelle les éditeurs peuvent ajouter des briques de services pour améliorer la qualité de leur produit.  
